@@ -30,3 +30,14 @@ care pot fi mutate, numarul de mutari cu cele 2 zaruri pe care le-a primit va de
 fiecare zar, si astfel celalat jucator va putea sa arunce cu zarul si apoi sa mute. In final 
 dupa ce unul din jucatori a castigat pe ecranele fiecaruia se va afisa un mesaj in functie daca 
 a castigat sau nu.
+
+# Cateva imagini
+
+![image](https://github.com/user-attachments/assets/367961cd-12b7-4746-ae33-1fbb2e36f27d)
+
+![image](https://github.com/user-attachments/assets/8687e3f7-d4ea-4da8-a2d9-2cb0c3230aed)
+
+![image](https://github.com/user-attachments/assets/8f157d69-08b7-462b-9b92-13c33a991cc1)
+
+![image](https://github.com/user-attachments/assets/1126dfd5-90d7-4c3c-9308-a2e2eb11b7d5)
+
