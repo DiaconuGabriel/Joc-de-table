@@ -1,9 +1,8 @@
 # Joc-de-table
 
-	Pentru acest proiect au fost utilizate librariile: pygame, random, sys, os, time, socket,
-pickle si contine 3 fisiere: server.py, table_player.py si table_player1.py.
+Pentru acest proiect au fost utilizate librariile: pygame, random, sys, os, time, socket, pickle si contine 3 fisiere: server.py, table_player.py si table_player1.py.
 	
-	Serverul este unul iterativ si tine cont de tura fiecarui jucator. El asteapta o conexiune, 
+Serverul este unul iterativ si tine cont de tura fiecarui jucator. El asteapta o conexiune, 
 iar in momentul in care a primit prima conexiune, o accepta, si ii trimite acesteia numarul de
 jucatori, apoi asteapta cea de a doua conexiune. Dupa ce a acceptat si cea de a doua conexiune,
 trimite ambelor conexiuni numarul de jucatori care este 2 si intra intr-o bucla while. Dar 
@@ -13,7 +12,7 @@ este tura primului jucator serverul primeste date de la acesta si le despachetea
 modifica tura jucatorilor in cazul in care unul dintre ei a terminat de mutat, iar apoi le trimite
 jucatorilor datele primite. In acest fel este tratat si cel de al doilea jucator.
 
-	Celelalte 2 fisiere sunt la fel, doar ca fisierul table_player1.py contine si cod 
+Celelalte 2 fisiere sunt la fel, doar ca fisierul table_player1.py contine si cod 
 capabil de a muta piese maro care este folosit in cazul in care se doreste a juca cu altcineva.
 Proiectul contine 2 clase denumite Zar si Piesa. Algoritmul dupa care functioneaza jocul este 
 urmatorul: fiecare zona in care exista sau vor exista piese este o lista. Fiecare piesa si 
