@@ -31,6 +31,9 @@ fiecare zar, si astfel celalat jucator va putea sa arunce cu zarul si apoi sa mu
 dupa ce unul din jucatori a castigat pe ecranele fiecaruia se va afisa un mesaj in functie daca 
 a castigat sau nu.
 
+# Cum Joci?
+Cu space dai cu zarul si cu m si n se selecteaza fiecare zar in parte. Se face click pe piesa pe care doresti sa o muti.
+
 # Cateva imagini
 
 ![image](https://github.com/user-attachments/assets/367961cd-12b7-4746-ae33-1fbb2e36f27d)
