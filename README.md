@@ -32,7 +32,7 @@ dupa ce unul din jucatori a castigat pe ecranele fiecaruia se va afisa un mesaj 
 a castigat sau nu.
 
 # Cum Joci?
-CU SPACE DAI CU ZARUL SI CU M SI N SE SELECTEAZA FIECARE ZAR IN PARTE. SE FACE CLICK PE PIESA PE CARE DORESTI SA O MUTI.
+Cu space dai cu zarul, iar cu m și n selectezi fiecare zar în parte. Faci clic pe piesa pe care dorești să o muți.
 
 # Cateva imagini
 
